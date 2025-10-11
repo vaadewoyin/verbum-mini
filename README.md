@@ -6,5 +6,5 @@ Verbum mini is a small scale gpt transformer built to solidify my knowlege on th
 
 ## Goals
 - Understand transformer internals
-- Train from scratch on a small text corpus
+- Train from scratch on a small text corpus (bible)
 - Generate coherent verse-like text
