@@ -1,2 +1,10 @@
-# verbum-mini
-Verbum Mini - A mini-GPT transformer language model trained from scratch on biblical text for text generation
+# Verbum Mini 🕊️
+A mini-GPT transformer trained from scratch on the Bible.
+
+## Overview
+Verbum mini is a small scale gpt transformer built to solidify my knowlege on the inner workings of a transformer. It’s part of the Verbum LM Project. 
+
+## Goals
+- Understand transformer internals
+- Train from scratch on a small text corpus
+- Generate coherent verse-like text
